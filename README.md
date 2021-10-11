@@ -1,4 +1,4 @@
-<h1> Hello everyone! 🖖💚</h1>
+<h1 align="center"> Hello everyone! 🖖💚</h1>
 
 My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo Horizonte / MG</strong> 🇧🇷 
 
