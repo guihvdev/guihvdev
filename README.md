@@ -24,10 +24,10 @@ My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo
 </div>
  <hr />
   <div align="start">
-  <a href="https://www.linkedin.com/guilherme-  viana-097a7b210/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-viana-097a7b210" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/guilherme-  viana-097a7b210/" target="_blank">
+    <a href="https://app.slack.com/client/TMDDFEPFU/threads/user_profile/U0219T9ED40" target="_blank">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
     </a>
   </div>
