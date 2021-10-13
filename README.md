@@ -3,7 +3,7 @@
 My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo Horizonte / MG</strong> 🇧🇷 
 
 - 🌱 I'm improving my <strong>Front-End</strong> skills, with React, Redux, CSS & Bootstrap.
-- 🦎 Studying SQL at <strong>Trybe</strong>.
+- 🐬 Studying SQL at <strong>Trybe</strong>.
 - 💙 I'm passionate about:
   <ul>
     <li> 👨‍💻 Develop new projects.</li>
