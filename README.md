@@ -27,7 +27,7 @@ My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo
   <a href="https://www.linkedin.com/in/guilherme-viana-097a7b210" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
     </a>
-    <a href="https://app.slack.com/client/TMDDFEPFU/threads/user_profile/U0219T9ED40" target="_blank">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/>
-    </a>
+  <a href = "mailto:guilhermehviana01@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   </div>
