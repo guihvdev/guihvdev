@@ -17,7 +17,7 @@ My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo
 </div>
 <div>
 
-### Trybe 🚀 💚
+## Trybe 🚀 💚
   <p>
   The school counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
   </p>
