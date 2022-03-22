@@ -2,7 +2,7 @@
 
 My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo Horizonte / MG</strong> 🇧🇷 
 
-- 🚀 I'm currently studying Full-Stack Web Development at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+- 🚀 I'm currently studying Full-Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a>
 - 🌱 I'm always improving my <strong>Front-End</strong> skills, with React, Redux, React Hooks, CSS & Bootstrap.
 - 🐳 Learning TypeScript & Docker.
 - 💙 I'm passionate about:
