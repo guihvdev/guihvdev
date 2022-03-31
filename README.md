@@ -9,7 +9,7 @@ My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Belo
   <ul>
     <li> 👨‍💻 Develop new projects.</li>
     <li> 🏀 Basketball.</li>
-    <li> 🎸 Music (<i> A Pearl Jam huge fan 🙋‍♂️ </i>).</li>
+    <li> 🎸 Music (<i> A Soundgarden huge fan 🙋‍♂️ </i>).</li>
   </ul>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihtryb&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
