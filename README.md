@@ -2,7 +2,7 @@
 
 My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Contagem / MG</strong> 🇧🇷 
 
-- 🚀 I'm currently studying Full-Stack Web Development at <a href="https://www.betrybe.com/">Trybe</a>
+- 🚀 Full-Stack Web Developer at <a href="https://www.betrybe.com/">Trybe</a>
 - 🌱 Practicing TypeScript.
 - 🧡 I'm passionate about:
   <ul>
