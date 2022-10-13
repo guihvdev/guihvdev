@@ -10,8 +10,8 @@ My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Cont
     <li> 🏀 Basketball.</li>
     <li> 🎸 Music (<i> A Soundgarden huge fan 🙋‍♂️ </i>).</li>
   </ul>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihtryb&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihtryb&show_icons=true&theme=vue-dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihtryb&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div>
