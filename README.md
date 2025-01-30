@@ -2,13 +2,10 @@
 
 My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Contagem / MG</strong> 🇧🇷 
 
-- 🚀 Full-Stack Web Developer at <a href="https://www.betrybe.com/">Trybe</a>
-- 🧑‍💻 Front-End Focused
-- 🏊‍♂️ Diving into ReactJS.
 - 🧡 I'm passionate about:
   <ul>
     <li> 👨‍💻 Develop new projects.</li>
-    <li> 🏀 Basketball.</li>
+    <li> 🛬 Travel </li>
     <li> 🎸 Music (<i> A Soundgarden huge fan 🙋‍♂️ </i>).</li>
   </ul>
 <div>
@@ -16,11 +13,6 @@ My name is <strong>Guilherme Viana</strong> and currently I live in <strong>Cont
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihtryb&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div>
-
-## Trybe 🚀 💚
-  <p>
-  The school counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
-
 ## Technologies that I use:
 
  <div align="center">
